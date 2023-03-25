@@ -4,7 +4,8 @@
 <h2>Hello, I am Isha Gusain</h2>
 
 <h1>About Me🙂</h1>
-I am an engineering student from India with a passion for technology and innovation. I am currently pursuing my Bachelor's degree from Graphic Era Hill University, where I am gaining knowledge and skills to become a successful engineer.
+I am an engineering student from India with a passion for technology and innovation.<br>
+I am currently pursuing my Bachelor's degree from Graphic Era Hill University, where I am gaining knowledge and skills to become a successful engineer.
 
 <h1>My Interests🧑‍🔧</h1>
 Programming and software development<br>
