@@ -5,9 +5,9 @@
 
 <h1>About Me😀</h1>
 <span style="font-size: 30%;">⭐</span>
-I am an engineering student from India with a &nbsp;&nbsp;passion for technology and innovation.<br>
+I am an engineering student from India with a &nbsp;&nbsp;&nbsp;passion for technology and innovation.<br>
 <span style="font-size: 30%;">⭐</span>
-I am currently pursuing my Bachelor's degree &nbsp;&nbsp;from Graphic Era Hill University, where I am &nbsp;gaining knowledge and skills to become a &nbsp;successful engineer.
+I am currently pursuing my Bachelor's degree &nbsp;&nbsp;&nbsp;from Graphic Era Hill University, where I am &nbsp;&nbsp;&nbsp;gaining knowledge and skills to become a &nbsp;&nbsp;&nbsp;successful engineer.
 
 <h1>My Interests🧑‍🔧</h1>
 <span style="font-size: 30%;">⭐</span>
@@ -31,6 +31,6 @@ Pay-Roll- Management System
 
 <h1>Contact Me📩</h1>
 <span style="font-size: 30%;">⭐</span>
-You can reach out to me at [Email!](ishagusain36@gmail.com) <br>
+You can reach out to me at [Email!]&nbsp;&nbsp;&nbsp;(ishagusain36@gmail.com) <br>
 <span style="font-size: 30%;">⭐</span>
 I am always open to networking and collaboration opportunities on projects.
