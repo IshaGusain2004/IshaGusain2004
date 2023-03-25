@@ -20,5 +20,5 @@ Weather Application<br>
 Pay-Roll- Management System
 
 <h1>Contact Me</h1>
-You can reach out to me via email at [Email!](ishagusain36@gmail.com) <br>
+You can reach out to me at [Email!](ishagusain36@gmail.com) <br>
 I am always open to networking and collaboration opportunities on projects.
