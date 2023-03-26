@@ -5,9 +5,9 @@
 
 <h1>About Me😀</h1>
 <span style="font-size: 30%;">⭐</span>
-I am an engineering student from India with a &nbsp;&nbsp;&nbsp;passion for technology and innovation.<br>
+I am an engineering student from India with a passion for technology and innovation.<br>
 <span style="font-size: 30%;">⭐</span>
-I am currently pursuing my Bachelor's degree &nbsp;&nbsp;&nbsp;from Graphic Era Hill University, where I am &nbsp;&nbsp;&nbsp;gaining knowledge and skills to become a &nbsp;&nbsp;&nbsp;successful engineer.
+I am currently pursuing my Bachelor's degree from Graphic Era Hill University, where I am gaining knowledge and skills to become a successful engineer.
 
 <h1>My Interests🧑‍🔧</h1>
 <span style="font-size: 30%;">⭐</span>
