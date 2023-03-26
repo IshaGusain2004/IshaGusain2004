@@ -31,11 +31,11 @@ Pay-Roll- Management System
 
 
 <h1>GitHub Stats📈</h1>
-[![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaGusain2004&show_icons=true&theme=radical)](https://github.com/IshaGusain2004)
+[Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaGusain2004&show_icons=true&theme=radical)](https://github.com/IshaGusain2004)
 
 
 <h1>Contact Me💌</h1>
 <span style="font-size: 30%;">⭐</span>
-You can reach out to me at [Email!]&nbsp;&nbsp;&nbsp;(ishagusain36@gmail.com) <br>
+You can reach out to me at [Email](ishagusain36@gmail.com) <br>
 <span style="font-size: 30%;">⭐</span>
 I am always open to networking and collaboration opportunities on projects.
